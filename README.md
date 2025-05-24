@@ -11,6 +11,7 @@ The main table used is:
 The final output lists only those services that had a **continuous outage** of 5 minutes or more, ordered by the total number of minutes they were down (in descending order).
 
 ================================
+
 ✅ Key Tasks
 * Track minute-by-minute status of all services.
 * Detect continuous "down" entries for the same service.
